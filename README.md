@@ -15,9 +15,7 @@
 <img src="./src/images/Pandas.svg" alt="Pandas">
 <img src="./src/images/Scikit Learn.svg" alt="Scikit Learn">
 
-## Team Members
 
-<a href="https://github.com/samankgupta/">Samank Gupta</a><br>
-<a href="https://github.com/ishivanshgoel/">Shivansh Goel</a><br>
-<a href="https://github.com/ujjwa893/">Ujjwal Gupta
+
+
 </a><br>
